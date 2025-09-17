@@ -9,3 +9,4 @@ variable "env" {}
 variable "dns_record_rg_name" {}
 variable "token" {}
 variable "type" {}
+variable "aks" {}
